@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 hey, i'm Maliha <3<br>i design and build for the web because pixels deserve personality.<br>mostly frontend, focused on usability and clean interfaces.<br><br>into ui/ux, accessibility, and turning messy ideas into something people actually enjoy using.<br>currently figuring out how to make things look good and make sense
 
 
